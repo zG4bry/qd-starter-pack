@@ -13,3 +13,5 @@
 #
 #   return 0;
 # }
+x = input("Enter week number(1-7): \n")
+print(x)
